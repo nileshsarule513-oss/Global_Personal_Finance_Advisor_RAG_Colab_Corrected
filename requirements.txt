@@ -1,1 +1,7 @@
-streamlit\ngoogle-genai\nchromadb\nsentence-transformers\npandas\nnumpy\nplotly\n
+streamlit
+google-genai
+chromadb
+sentence-transformers
+pandas
+numpy
+plotly
